@@ -1,0 +1,29 @@
+{
+  "name": "seneca-express",
+  "version": "1.0.0",
+  "description": "developing senecajs with express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "keywords": [
+    "seneca",
+    "express",
+    "js",
+    "node",
+    "nodejs",
+    "expressjs",
+    "senecajs",
+    "microservice"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "knex": "^0.12.6",
+    "mysql": "^2.12.0",
+    "seneca": "^3.2.2"
+  }
+}
